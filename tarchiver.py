@@ -4,7 +4,6 @@
 #
 # USAGE: ./tarchiver.py
 #
-# Author: Honglin Liu
 # Date: Feb 14, 2023
 import os
 loopSwitch1 = 1
