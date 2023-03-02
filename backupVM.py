@@ -4,7 +4,6 @@
 #
 # USAGE: ./backupVM.py
 #
-# Author: Honglin Liu
 # Date: Feb 5, 2023
 import os
 currentuser = os.popen('whoami').read().strip()
