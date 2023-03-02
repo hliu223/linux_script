@@ -4,7 +4,6 @@
 #
 # USAGE: ./vmbackup.py
 #
-# Author: Honglin Liu
 # Date: Feb 20, 2023
 import os
 import datetime
